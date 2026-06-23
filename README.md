@@ -31,7 +31,7 @@
 
 | File | Description |
 | --- | --- |
-| [Sentinel_GeoIP_Watchlist_Attack_Map_Report.docx](./Sentinel_GeoIP_Watchlist_Attack_Map_Report.docx) | Complete lab report with all screenshots embedded |
+| [Sentinel_GeoIP_Watchlist_Attack_Map_Lab Report](./Sentinel_GeoIP_Watchlist_Attack_Map_Lab.pdf) | Complete lab report with all screenshots embedded |
 | README.md | Project overview |
 
 ---
