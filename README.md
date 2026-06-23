@@ -20,7 +20,7 @@
 **Prepared by:** Bikash Raya
 **Project Type:** Threat Intelligence Lab — GeoIP Enrichment, Watchlist & Geospatial Attack Visualisation
 
-> **This is Phase 2 of the [Microsoft Sentinel & Defender XDR SOC IR Lab](https://github.com/Bikash-Raya/microsoft-sentinel-defender-xdr-soc-ir-lab)**
+> **This is Phase 2 of the [https://github.com/Bikash-Raya/Sentinel-Defender-XDR-SOC-Incident-Response-lab)**
 > The same infrastructure was reused — no new VMs were created.
 
 </div>
