@@ -239,7 +239,7 @@ The greenRed heat map workbook provides an executive-level view of the organisat
 ## 🔗 Related Project
 
 > This lab is a continuation of:
-> **[Microsoft Sentinel & Defender XDR — SOC Incident Response Lab](https://github.com/Bikash-Raya/microsoft-sentinel-defender-xdr-soc-ir-lab)**
+> **[Microsoft Sentinel & Defender XDR — SOC Incident Response Lab](https://github.com/Bikash-Raya/Sentinel-Defender-XDR-SOC-Incident-Response-lab)**
 > *(Hydra RDP Brute Force Attack, Analytics Rule, Incident ID 18 — same infrastructure)*
 
 ---
