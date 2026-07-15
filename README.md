@@ -18,7 +18,6 @@
 ---
 
 **Prepared by:** Bikash Raya
-**Project Type:** Threat Intelligence Lab — GeoIP Enrichment, Watchlist & Geospatial Attack Visualisation
 
 > **This is Phase 2 of the [https://github.com/Bikash-Raya/Sentinel-Defender-XDR-SOC-Incident-Response-lab)**
 > The same infrastructure was reused — no new VMs were created.
@@ -27,14 +26,14 @@
 
 ---
 
-## 📁 Repository Structure
+## 📁 Full Lab Walkthrough — Proof of Work
 
 | File | Description |
 | --- | --- |
-| [Sentinel_GeoIP_Watchlist_Attack_Map_Lab Report](./Sentinel_GeoIP_Watchlist_Attack_Map_Lab.pdf) | Complete lab report with all screenshots embedded |
-| README.md | Project overview |
+| [Sentinel_GeoIP_Watchlist_Attack_Map_Lab Report](./Sentinel_GeoIP_Watchlist_Attack_Map_Lab.pdf) | Hands-on lab walkthrough with screenshots |
 
 ---
+<br>
 
 ## 📋 Overview
 
@@ -236,17 +235,22 @@ The greenRed heat map workbook provides an executive-level view of the organisat
 
 ---
 
-## 🔗 Related Project
+## 🔗 Related Projects
 
-> This lab is a continuation of:
-> **[Microsoft Sentinel & Defender XDR — SOC Incident Response Lab](https://github.com/Bikash-Raya/Sentinel-Defender-XDR-SOC-Incident-Response-lab)**
-> *(Hydra RDP Brute Force Attack, Analytics Rule, Incident ID 18 — same infrastructure)*
+> Part of the **Bikash Security Lab** series:
+> * [Microsoft Sentinel & Defender XDR — SOC IR Lab](https://github.com/Bikash-Raya/Sentinel-Defender-XDR-SOC-Incident-Response-lab) *(same infrastructure — Phase 1)*
+> * [LummaC2 Threat Hunting — Sentinel & Sysmon](https://github.com/Bikash-Raya/Threat-Hunting-Lab-Sentinel-Sysmon--lummac2-)
+> * [Vulnerable Web Server — RCE Detection & IR](https://github.com/Bikash-Raya/vulnerable-webserver-rce-detection-incident-response-)
 
 ---
 
 ## 🎯 Key Takeaway
 
 > This lab demonstrates hands-on experience with Microsoft Sentinel threat intelligence enrichment — creating a GeoIP watchlist, building a custom KQL workbook using ipv4_lookup() to enrich real-world attack data, and visualising global attack origins on a live heat map. By intentionally leaving an Azure VM exposed for 2 days, over 4,270 real failed RDP login attempts were captured from threat actors across Vietnam, UK, USA, and Europe — demonstrating exactly what SOC analysts see monitoring publicly exposed cloud infrastructure.
+
+---
+
+> 📄 Thanks for reading! For a full hands-on walkthrough of this lab with screenshots — [download the lab report here](./Sentinel_GeoIP_Watchlist_Attack_Map_Lab.pdf)
 
 ---
 
